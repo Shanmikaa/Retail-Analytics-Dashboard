@@ -5,7 +5,16 @@
 This project marks my **first end-to-end Power BI analytics project**, developed using the Global Superstore dataset. It demonstrates the complete business intelligence workflow, including data cleaning, data modeling, DAX calculations, interactive dashboard design, and business insight generation.
 
 The dashboard provides valuable insights into sales performance, product analysis, and customer segmentation (RFM) to support data-driven business decisions.
+## Dashboard Preview
 
+### Executive Overview
+![Executive Dashboard](Executive.png)
+
+### Product Performance
+![Product Dashboard](Product.png)
+
+### Customer Segmentation (RFM)
+![Customer Dashboard](Customer.png)
 ---
 
 ## 🎯 Objectives
